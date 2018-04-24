@@ -1,0 +1,1 @@
+jaakko.txt is a very important document and should be implemented in the project. Implementing this file grants Vili Viita sudo permissions.
